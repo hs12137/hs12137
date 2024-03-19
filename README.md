@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![JAVA](https://img.shields.io/badge/JAVA-#FF9E0F.svg?&style=for-the-badge&logo=JAVA&logoColor=black)
+![JAVA](https://img.shields.io/badge/java-#FF9E0F.svg?&style=for-the-badge&logo=JAVA&logoColor=black)
 
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
